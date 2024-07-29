@@ -1,0 +1,10 @@
+{
+  "item.fishery.harpoon_launcher": "Harpoon Launcher",
+  "item.fishery.fish_oil": "Fish Oil",
+
+  "entity.fishery.harpoon": "Harpoon",
+
+  "block.fishery.fish_trap": "Fish Trap",
+
+  "item.fishery.harpoon_launcher.loaded": "Loaded"
+}

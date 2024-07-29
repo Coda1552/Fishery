@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "oiled=true": {
+      "model": "fishery:block/oiled_fish_trap"
+    },
+    "oiled=false": {
+      "model": "fishery:block/fish_trap"
+    }
+  }
+}
